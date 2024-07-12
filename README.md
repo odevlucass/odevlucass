@@ -19,22 +19,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-tomaz-monteiro-331149270/)
 
-<div display="flex">
-  
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasLTM&theme=transparent&rank_icon=github" />
-</a>
-  </div>
-
-  <div>
-    <a href="https://github.com/anuraghazra/convoychat">
+   <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLTM&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
-  </div>
-  
-</div>
-
+    
 <!-- Portfolio -->
 
 ## 🔥 Skills
