@@ -6,13 +6,13 @@
 <p>
   Oi, me chamo Lucas! Um apaixonado por tecnologia.
 
-  - Acabei de concluir o [PROPROFISSÃO](https://www.proa.org.br/proprofissao/), um curso de programação realizado pelo Instituto PROA.
+  - Formado no curso [PROPROFISSÃO](https://drive.google.com/file/d/1JdUatvqF5e_EeUkHVjctOsoRalYQDe3S/view?usp=sharing), um curso de programação realizado pelo Instituto PROA.
 </p>
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho experiência com HTML & CSS. Também sou Fundador da plataforma chamada "Impacto", tenho muito orgulho do que meus colegas e eu desenvolvemos pois acreditamos que isso pode mudar a sociedade. A plataforma ainda está em desenvolvimento.
+  - 💬 Me considero um Desenvolvedor Front End que tem afinidade com a área de UX/UI Design. Também sou Fundador da plataforma chamada "Impacto", tenho muito orgulho do que meus colegas e eu desenvolvemos pois acreditamos que isso pode mudar a sociedade. A plataforma ainda está em desenvolvimento.
 
   - 🎶 Me considero uma pessoa muito comunicativa e gosto de música e dança.
 </details>
