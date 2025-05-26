@@ -16,7 +16,7 @@
 
   - 🎶 Me considero uma pessoa muito comunicativa, gosto de música e dança.
     
-  - 💬 Sou um Desenvolvedor Front End que tem afinidade com a área de UX/UI Design. Também sou Fundador da plataforma chamada "Impacto", tenho muito orgulho do que meus colegas e eu desenvolvemos pois acreditamos que isso pode mudar a sociedade. A plataforma ainda está em desenvolvimento.
+  - 💬 Sou um Desenvolvedor Front End que tem afinidade com a área de UX/UI Design. Também fui Fundador da plataforma chamada "Impacto", tenho muito orgulho do que meus colegas e eu desenvolvemos.
 </details>
 <br>
    <a href="https://github.com/anuraghazra/convoychat">
