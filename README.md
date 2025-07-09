@@ -6,7 +6,7 @@
 <p>
   Me chamo Lucas, um apaixonado por tecnologia!
 
-  - Fazendo Análise e Desenvolvimento de Sistemas pela Unicesumar
+  - Cursando Análise e Desenvolvimento de Sistemas pela Unicesumar
   - Formado no curso [PROPROFISSÃO](https://drive.google.com/file/d/1JdUatvqF5e_EeUkHVjctOsoRalYQDe3S/view?usp=sharing), um curso de programação realizado pelo Instituto PROA.
 
 </p>
